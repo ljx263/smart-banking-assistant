@@ -22,6 +22,9 @@ A beginner Python project created while learning programming fundamentals. The a
 * Save transaction records to a text file
 ### Basic Fraud Detection
 * Display warnings for unusually large withdrawals or transfers
+## Screenshot
+![Program Screenshot](screenshot1.png)
+![Program Screenshot](screenshot2.png)
 ## Programming Concepts Practised
 * Variables
 * Functions
