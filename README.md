@@ -23,8 +23,8 @@ A beginner Python project created while learning programming fundamentals. The a
 ### Basic Fraud Detection
 * Display warnings for unusually large withdrawals or transfers
 ## Screenshot
-![Program Screenshot](screenshot1.png)
 ![Program Screenshot](screenshot2.png)
+![Program Screenshot](screenshot1.png)
 ## Programming Concepts Practised
 * Variables
 * Functions
